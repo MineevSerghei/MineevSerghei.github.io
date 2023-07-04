@@ -4528,7 +4528,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 
 .banner.style4.invert .image {
 	border-color: white;
-	background-color: white;
+	background-color: rgb(47, 47, 47);
 	border-width: 1px;
 }
 
